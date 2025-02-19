@@ -4,13 +4,12 @@ This project detects and recognizes number plates from images or video streams u
 
 # 🚀 Features
 - Automatic detection and extraction of number plates.
-- Optical Character Recognition (OCR) for reading alphanumeric characters.
 - Preprocessing techniques for handling low-light or distorted images.
 - Works with both static images and real-time video streams.
 # 🛠️ Tech Stack
 - Programming Language: Python 
 - OpenCV (for image processing)
-- TensorFlow/Keras or PyTorch (for deep learning models)
+- TensorFlow/Keras  (for deep learning models)
 - NumPy, Pandas (for data handling)
 # 📂 Dataset
 Dataset Used: https://www.kaggle.com/datasets/andrewmvd/car-plate-detection
